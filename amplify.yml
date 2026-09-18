@@ -6,7 +6,7 @@ frontend:
         - npm install
     build:
       commands:
-        - npm run build
+        - echo "Static site - no build step"
   artifacts:
     baseDirectory: dist
     files:
