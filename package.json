@@ -1,8 +1,12 @@
 {
   "name": "joaquinluquelazo-dev",
   "version": "1.0.0",
+  "description": "Mi página personal",
   "private": true,
   "scripts": {
+    "start": "npx serve .",
     "build": "echo \"Sitio estático, nada que compilar\""
-  }
+  },
+  "author": "Joaquín Luque Lazo",
+  "license": "MIT"
 }
